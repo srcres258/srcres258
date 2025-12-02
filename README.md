@@ -27,7 +27,7 @@ My e-mail: [xianfengting221@163.com](mailto:xianfengting221@163.com).
 
 # My programming activity
 
-<figure><embed src="https://wakatime.com/share/@56a5dfcd-68f9-49a5-b3e5-4e14a2772e32/dbf58369-a45e-4ead-ab5f-b4922cde251c.svg"></embed></figure>
+![](https://wakatime.com/share/@56a5dfcd-68f9-49a5-b3e5-4e14a2772e32/dbf58369-a45e-4ead-ab5f-b4922cde251c.svg)
 
-<figure><embed src="https://wakatime.com/share/@56a5dfcd-68f9-49a5-b3e5-4e14a2772e32/a7fde2aa-4674-4c48-be10-e23e5f9fb6dd.svg"></embed></figure>
+![](https://wakatime.com/share/@56a5dfcd-68f9-49a5-b3e5-4e14a2772e32/a7fde2aa-4674-4c48-be10-e23e5f9fb6dd.svg)
 

@@ -1,14 +1,33 @@
-
 # About myself
 
-Undergraduate freshman, major: computer science (blockchain engineering).
+I'm am undergraduate, major: Computer Science (Blockchain Engineering).
 
-Maintainer of [the Linux kernel documentation translation (Chinese)](https://docs.kernel.org/translations/zh_TW/index.html).
+I'm busy with my curricula, resulting in lack of time to pay attention to
+my open-source projects. They may be stay unmaintained for some time. So
+please get in contact with me if you have some important affairs which
+should make me notified.
 
-Mail: [src.res.211@gmail.com](mailto:src.res.211@gmail.com) (primary), [xianfengting221@163.com](mailto:xianfengting221@163.com) (secondary, seldomly checked).
+My e-mail: [xianfengting221@163.com](mailto:xianfengting221@163.com).
+
+# My currently learning
+
+- **Machine Learning** (my course within the current semester)
+
+  Video tutorial at [Bilibili](https://www.bilibili.com/video/BV1owrpYKEtP/?p=7&sp) (reposted)
+
+- **Principles of Database** (my course within the current semester)
+
+- [**YSYX Project**](https://ysyx.oscc.cc/) (the "One Student One Chip" project, as my spare-time course)
+
+  Formal student, current progress at [Stage **B2**](https://ysyx.oscc.cc/docs/2306/basic/1.8.html#%E5%8F%AF%E9%87%8D%E5%A4%8D%E7%BC%96%E7%A8%8B%E7%9A%84%E9%9D%9E%E6%98%93%E5%A4%B1%E5%AD%98%E5%82%A8%E5%99%A8) (handout version 23.06)
 
 # My GitHub details
 
 ![](https://github-readme-stats.vercel.app/api?username=srcres258&show_icons=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=srcres258&layout=compact&langs_count=10)
+# My programming activity
+
+<figure><embed src="https://wakatime.com/share/@56a5dfcd-68f9-49a5-b3e5-4e14a2772e32/dbf58369-a45e-4ead-ab5f-b4922cde251c.svg"></embed></figure>
+
+<figure><embed src="https://wakatime.com/share/@56a5dfcd-68f9-49a5-b3e5-4e14a2772e32/a7fde2aa-4674-4c48-be10-e23e5f9fb6dd.svg"></embed></figure>
+

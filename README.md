@@ -19,7 +19,7 @@ My e-mail: [xianfengting221@163.com](mailto:xianfengting221@163.com).
 
 - **Haskell** (a programming language)
 
-  Following [this tutorial](https://learnyouahaskell.mno2.org/zh-cn/ch09/input-and-output).
+  Following [this tutorial](https://learnyouahaskell.mno2.org/zh-cn).
 
 - [**YSYX Project**](https://ysyx.oscc.cc/) (the "One Student One Chip" project, as my spare-time course)
 

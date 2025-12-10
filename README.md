@@ -17,6 +17,10 @@ My e-mail: [xianfengting221@163.com](mailto:xianfengting221@163.com).
 
 - **Principles of Database** (my course within the current semester)
 
+- **Haskell** (a programming language)
+
+  Following [this tutorial](https://learnyouahaskell.mno2.org/zh-cn/ch09/input-and-output).
+
 - [**YSYX Project**](https://ysyx.oscc.cc/) (the "One Student One Chip" project, as my spare-time course)
 
   Formal student, current progress at [Stage **B2**](https://ysyx.oscc.cc/docs/2306/basic/1.8.html#%E5%8F%AF%E9%87%8D%E5%A4%8D%E7%BC%96%E7%A8%8B%E7%9A%84%E9%9D%9E%E6%98%93%E5%A4%B1%E5%AD%98%E5%82%A8%E5%99%A8) (handout version 23.06)

@@ -1,6 +1,6 @@
 # About myself
 
-I'm am undergraduate, major: Computer Science (Blockchain Engineering).
+I'm an undergraduate, major: Computer Science (Blockchain Engineering).
 
 I'm busy with my curricula, resulting in lack of time to pay attention to
 my open-source projects. They may be stay unmaintained for some time. So

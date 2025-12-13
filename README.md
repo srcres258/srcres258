@@ -3,7 +3,7 @@
 I'm an undergraduate, major: Computer Science (Blockchain Engineering).
 
 I'm busy with my curricula, resulting in lack of time to pay attention to
-my open-source projects. They may be stay unmaintained for some time. So
+my open-source projects. They may  stay unmaintained for some time. So
 please get in contact with me if you have some important affairs which
 should make me notified.
 

@@ -11,15 +11,13 @@ My e-mail: [xianfengting221@163.com](mailto:xianfengting221@163.com).
 
 # My currently learning
 
-- **Machine Learning** (my course within the current semester)
-
-  Video tutorial at [Bilibili](https://www.bilibili.com/video/BV1owrpYKEtP/?p=7&sp) (reposted)
-
-- **Principles of Database** (my course within the current semester)
-
 - **Haskell** (a programming language)
 
   Following [this tutorial](https://learnyouahaskell.mno2.org/zh-cn).
+
+- **Solidity** (a programming language)
+
+  Learning for developing smart contracts on Ethereum. Thanks to the [official solidity documentation](https://docs.soliditylang.org/en/v0.8.33/).
 
 - [**YSYX Project**](https://ysyx.oscc.cc/) (the "One Student One Chip" project, as my spare-time course)
 

@@ -15,9 +15,9 @@ My e-mail: [xianfengting221@163.com](mailto:xianfengting221@163.com).
 
   Following [this tutorial](https://learnyouahaskell.mno2.org/zh-cn).
 
-- **Solidity** (a programming language)
+- **Clash** (a functional HDL)
 
-  Learning for developing smart contracts on Ethereum. Thanks to the [official solidity documentation](https://docs.soliditylang.org/en/v0.8.33/).
+  Giant thanks to [the official documentation](https://hackage-content.haskell.org/package/clash-prelude-1.8.4/docs/Clash-Tutorial.html).
 
 - [**YSYX Project**](https://ysyx.oscc.cc/) (the "One Student One Chip" project, as my spare-time course)
 

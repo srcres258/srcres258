@@ -9,15 +9,21 @@ should make me notified.
 
 My e-mail: [xianfengting221@163.com](mailto:xianfengting221@163.com).
 
+# ⚠️ CURRENT STATUS: Preparing for graduate exam
+
+I'm preparing for Master's Degree Entrance Examination now, so my
+activities on open-source projects may cease for a long time. Contact
+with me if you have something significant to tell me, but please don't
+expect a quick response.
+
+I will upload my notes and summaries of the courses I've learned during
+this time soon.
+
 # My currently learning
 
 - **Haskell** (a programming language)
 
   Following [this tutorial](https://learnyouahaskell.mno2.org/zh-cn).
-
-- **Clash** (a functional HDL)
-
-  Giant thanks to [the official documentation](https://hackage-content.haskell.org/package/clash-prelude-1.8.4/docs/Clash-Tutorial.html).
 
 - [**YSYX Project**](https://ysyx.oscc.cc/) (the "One Student One Chip" project, as my spare-time course)
 

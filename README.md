@@ -27,7 +27,7 @@ this time soon.
 
 - [**YSYX Project**][3] (the "One Student One Chip" project, as my spare-time course)
 
-  Formal student, current progress at [Stage **B2**][4] (handout version 23.06)
+  Formal student, current progress at [Stage **B3**][4] (handout version 23.06)
 
 # My programming activity
 
@@ -38,5 +38,5 @@ this time soon.
 [1]: https://en.wikipedia.org/wiki/Nationwide_Master%27s_Program_Unified_Admissions_Examination
 [2]: https://learnyouahaskell.mno2.org/zh-cn
 [3]: https://ysyx.oscc.cc/
-[4]: https://ysyx.oscc.cc/docs/2306/basic/1.8.html#%E5%8F%AF%E9%87%8D%E5%A4%8D%E7%BC%96%E7%A8%8B%E7%9A%84%E9%9D%9E%E6%98%93%E5%A4%B1%E5%AD%98%E5%82%A8%E5%99%A8
+[4]: https://ysyx.oscc.cc/docs/2306/basic/1.9.html
 
